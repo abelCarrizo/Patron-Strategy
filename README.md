@@ -1,6 +1,6 @@
-#Patron Strategy
+# Patron Strategy
 
-###Integrantes
+### Integrantes
 
 - Abel Carrizo
 - Cristian Albornoz
